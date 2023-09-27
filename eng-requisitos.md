@@ -9,7 +9,7 @@
 
 ***Ator: Usuário (Aluno)***
 
-**CRIAR CONTA**
+**CRIAR CONTA:**
 
 *Fluxo normal*
 
@@ -25,7 +25,7 @@
 - 3b. e-mail não cadastrado
 
 
-**SOLICITAR SALA**
+**SOLICITAR SALA:**
 
 *Fluxo normal*
 
@@ -42,7 +42,7 @@
 - 6a. Caso o agendamento for feito fora do horário de trabalho, o sistema informará o horário útil até a confirmação.
 
 
-**CANCELAR AGENDAMENTO**
+**CANCELAR AGENDAMENTO:**
 
 *Fluxo normal*
 
@@ -56,7 +56,7 @@
 
 ***Ator: Usuário (Professor)***
 
-**SOLICITAR SALA**
+**SOLICITAR SALA:**
 
 *Fluxo normal*
 
@@ -70,7 +70,7 @@
 - 2a. Se nenhuma sala estiver disponível, o sistema informará.
 
 
-**CANCELAR AGENDAMENTO**
+**CANCELAR AGENDAMENTO:**
 
 *Fluxo normal*
 
@@ -80,7 +80,7 @@
 4. Professor confirma o cancelamento
 
 
-**INFORMAR PROBLEMAS NA SALA**
+**INFORMAR PROBLEMAS NA SALA:**
 
 *Fluxo normal*
 
@@ -95,7 +95,7 @@
 ***Ator: administrador (administrador)***
 
 
-**CADASTRAR PROFESSOR**
+**CADASTRAR PROFESSOR:**
 
 *Fluxo normal*
 
@@ -110,7 +110,7 @@
 - 5a. E-mail inválido, informar novamente.
 
 
-**GERENCIAR PROFESSORES**
+**GERENCIAR PROFESSORES:**
 
 *Fluxo normal*
 
@@ -121,7 +121,7 @@
 5. O administrador pode remover professor 
 
 
-**CADASTRAR SALA**
+**CADASTRAR SALA:**
 
 *Fluxo normal*
 
@@ -133,7 +133,7 @@
 6. O administrador informa o status de uso da sala 
 
 
-**GERENCIAR SALAS**
+**GERENCIAR SALAS:**
 
 *Fluxo normal*
 
@@ -146,7 +146,7 @@
 7. O administrador pode excluir uma sala cadastrada
 
 
-**VISUALIZAR SOLICITAÇÕES DE AGENDAMENTO**
+**VISUALIZAR SOLICITAÇÕES DE AGENDAMENTO:**
 
 *Fluxo normal*
 
@@ -162,7 +162,7 @@
 ***Ator: Sistema***
 
 
-**AUTENTICAÇÃO**
+**AUTENTICAÇÃO:**
 
 *Fluxo normal*
 
@@ -175,7 +175,7 @@
 7. Se as credenciais estão incorretas, sistema exibe mensagem de erro   
 
 
-**NOTIFICAR USUÁRIOS**
+**NOTIFICAR USUÁRIOS:**
 
 *Fluxo normal*
 
@@ -185,7 +185,7 @@
 4. O sistema notifica usuário que informou o problema quando consertado
 
 
-**NOTIFICAR ADMINISTRADOR**
+**NOTIFICAR ADMINISTRADOR:**
 
 *Fluxo normal*
 
